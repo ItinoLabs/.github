@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/itino_banner.png" alt="Logo da Itino" width="400">
+  <img src="./itino_banner.png" alt="Logo da Itino" width="400">
 </p>
 
 # Itino 🌍🚐  
